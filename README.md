@@ -12,7 +12,7 @@ __一个专注于头矿币种的轻量化挖矿软件__
 
 做最好的挖矿软件！
 
-最新版下载地址：https://github.com/xiaokunkun521/KKminer/releases/download/1.1.0.3/windows.zip
+最新版下载地址：https://github.com/xiaokunkun521/KKminer/releases
 
 如果您有什么更好的建议或发现BUG请加TG群反馈,作者会在第一时间维护。
 
