@@ -23,7 +23,7 @@
 ## 💬 问题反馈与交流
 如果您有优化建议，或是运行中发现BUG，欢迎通过TG群反馈，作者会第一时间跟进维护。
 
-[TG交流群]([https://github.com/xiaokunkun521/KKminer/releases/download/1.1.0.3/windows.zip](https://t.me/KKminer521))
+[TG交流群](https://t.me/KKminer521)
 
 ## 🖼️ 软件界面截图
 
