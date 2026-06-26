@@ -1,0 +1,40 @@
+nvididaGPU-PRL超频推荐：
+【20与30系】
+锁定核心：1350到1500之间
+锁定显存：5000
+核心偏移：200
+显存偏移：留空=自动
+风扇：留空=自动
+功耗：留空=自动
+
+【40与50系】
+锁定核心：2000到2500之间
+锁定显存：5000
+核心偏移：200
+显存偏移：留空=自动
+风扇：留空=自动
+功耗：留空=自动
+
+==============================
+
+Supports Pearl (PRL) mining
+Updated PRL mining kernel: SRBminer-3.4.1
+Updated PRL mining kernel: tw-miner
+KK Miner softwre fee: 0%
+
+NVIDIA GPU PRL Overclocking Recommendations:
+[20 & 30 Series]
+Core Lock: 1350–1500
+Memory Lock: 5000
+Core Offset: +200
+Memory Offset: Leave blank (Auto)
+Fan: Leave blank (Auto)
+Power Limit: Leave blank (Auto)
+
+[40 & 50 Series]
+Core Lock: 2000–2500
+Memory Lock: 5000
+Core Offset: +200
+Memory Offset: Leave blank (Auto)
+Fan: Leave blank (Auto)
+Power Limit: Leave blank (Auto)
