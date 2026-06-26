@@ -22,5 +22,3 @@ __一个专注于头矿币种的挖矿软件__
 
 ![f2e453834305fc9b914d445937ab8408](https://github.com/user-attachments/assets/01bcfcc3-a23e-439d-bf40-0143d36dfc07)
 
-__天行健，君子以自强不息；地势坤，君子以厚德载物__
-
