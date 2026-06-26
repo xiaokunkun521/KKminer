@@ -12,6 +12,7 @@
 
 ## ⚡ 超频参数推荐
 针对PRL币种整理的官方超频参考配置，帮助平衡算力与功耗表现：
+
 [查看 PRL 超频推荐配置](https://github.com/xiaokunkun521/KKminer/blob/main/PRL%E8%B6%85%E9%A2%91%E6%8E%A8%E8%8D%90)
 
 ## 📥 最新版本下载
@@ -21,6 +22,8 @@
 
 ## 💬 问题反馈与交流
 如果您有优化建议，或是运行中发现BUG，欢迎通过TG群反馈，作者会第一时间跟进维护。
+
+[TG交流群]([https://github.com/xiaokunkun521/KKminer/releases/download/1.1.0.3/windows.zip](https://t.me/KKminer521))
 
 ## 🖼️ 软件界面截图
 
