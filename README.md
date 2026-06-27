@@ -28,8 +28,7 @@
 ## 🖼️ 软件界面截图
 
 
+<img width="767" height="524" alt="888" src="https://github.com/user-attachments/assets/a47d9ef2-5b0d-4169-8eec-6f41d7c9eb47" />
 
-<img width="759" height="515" alt="33333" src="https://github.com/user-attachments/assets/560f5436-bd1f-4e3d-a56d-3af2d6718cf9" />
-
-<img width="760" height="515" alt="22222" src="https://github.com/user-attachments/assets/b7413059-7cee-4e8a-a61c-ecbea323b980" />
+<img width="768" height="526" alt="999" src="https://github.com/user-attachments/assets/7ea63f49-6f82-433a-a1dd-0357406ade09" />
 
