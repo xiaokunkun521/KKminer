@@ -10,15 +10,18 @@
 - 支持 AMD / Intel 平台CPU挖矿，覆盖更多硬件场景
 - 公益免费开放使用，全程无任何抽水
 
+## 🌐 官方网站
+[访问 KKminer 官网](https://kkminer.pages.dev/)
+
 ## ⚡ 超频参数推荐
 针对PRL币种整理的官方超频参考配置，帮助平衡算力与功耗表现：
 
-[查看 PRL 超频推荐配置](https://github.com/xiaokunkun521/KKminer/blob/main/PRL%E8%B6%85%E9%A2%91%E6%8E%A8%E8%8D%90)
+[查看 PRL 超频推荐配置](https://kkminer.pages.dev/OC)
 
 ## 📥 最新版本下载
 当前最新版本：（Windows 专属）
-
-[一键下载 Windows 版本](https://github.com/xiaokunkun521/KKminer/releases/download/1.1.0.3/windows.zip)
+[官网下载 Windows 版本](https://kkminer.pages.dev/)
+[一键下载 Windows 版本](https://github.com/xiaokunkun521/KKminer/releases)
 
 ## 💬 问题反馈与交流
 如果您有优化建议，或是运行中发现BUG，欢迎通过TG群反馈，作者会第一时间跟进维护。
@@ -31,4 +34,3 @@
 <img width="767" height="524" alt="888" src="https://github.com/user-attachments/assets/a47d9ef2-5b0d-4169-8eec-6f41d7c9eb47" />
 
 <img width="768" height="526" alt="999" src="https://github.com/user-attachments/assets/7ea63f49-6f82-433a-a1dd-0357406ade09" />
-
